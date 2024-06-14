@@ -25,3 +25,6 @@ ner_main的运行命令如下
 
 python .\NER_main.py --data_dir=D:\\jpdir\\bert\\bert-aq\\Bert-master\\Bert-master\\input\\data_\\ner_data --vob_file=D:\\jpdir\\bert\\bertchinese\\vocab.txt --model_config=D:\\jpdir\\bert\\bertchinese\\config.json --output=D:\\jpdir\\bert\\bert-aq\\Bert-master\\Bert-master\\output --pre_train_model=D:\\jpdir\\bert\\bertchinese\\pytorch_model.bin --max_seq_length=64 --do_train=true --train_batch_size=32 --eval_batch_size=128 --gradient_accumulation_steps=4 --num_train_epochs=15
 
+# 参考链接
+https://blog.csdn.net/a1105425455/article/details/130277102
+
