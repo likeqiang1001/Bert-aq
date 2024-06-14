@@ -17,3 +17,7 @@
 
 # 用法
 下载项目后，数据都有，直接运行main函数就可以了
+
+项目运行后，cpu大概4个小时
+![image](https://github.com/likeqiang1001/Bert-aq/assets/12680223/0c104f57-a8a4-487b-a66f-fdb2ca9ace31)
+
